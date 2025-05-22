@@ -11,7 +11,7 @@ This project defines a secure, highly available, and scalable cloud architecture
 The system consists of three core components:
 
 1. **Auth Service** (Java)  
-   - Handles authentication and authorization  
+   - Handles authentication and authorisation  
    - Deployed to ECS Fargate  
    - Connected to PostgreSQL (Amazon RDS)
 

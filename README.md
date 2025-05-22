@@ -52,6 +52,7 @@ The system consists of three core components:
 - Secrets stored in AWS Secrets Manager
 - TLS for all services
 - CloudTrail and CloudWatch logging
+- WAF?
 
 ---
 

@@ -117,7 +117,7 @@ Access them via IAM roles (no plaintext env vars).
 
 Ensure KMS encryption is enabled for all secrets.
 
-✅ Why: Avoids hardcoded credentials and allows centralized audit/control.
+✅ Why: Avoids hardcoded credentials and allows centralised audit/control.
 
 4. IAM Roles & Least Privilege
 Create separate IAM roles for:
@@ -171,7 +171,7 @@ Consider AWS X-Ray for distributed tracing.
 ✅ Why: Faster detection & resolution of issues.
 
 8. Audit Logging
-Enable AWS CloudTrail across all regions.
+Enable AWS CloudTrail across desired regions.
 
 Track:
 

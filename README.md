@@ -29,7 +29,7 @@ The system consists of three core components:
 
 ## 📦 Architecture Diagram
 
-![Architecture Diagram](./docs/architecture.png)
+![Architecture Diagram](./docs/architecture/app_architecture.drawio.png)
 
 ---
 
